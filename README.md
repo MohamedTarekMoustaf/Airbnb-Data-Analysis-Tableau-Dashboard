@@ -48,6 +48,7 @@ Mapbox and OpenStreetMap for geospatial visualization
 Data cleaning and preparation performed in Excel
 
 🔍 **Insights**
+
 Some key findings:
 
 Listings with more bedrooms command significantly higher average prices.
