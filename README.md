@@ -41,7 +41,8 @@ Listing details such as number of bedrooms, zip code, and nightly price.
 
 Calendar data tracking availability and revenue by date.
 
-🛠️ Tools & Technologies
+🛠️ **Tools & Technologies**
+
 Tableau Desktop Public Edition
 
 Mapbox and OpenStreetMap for geospatial visualization
