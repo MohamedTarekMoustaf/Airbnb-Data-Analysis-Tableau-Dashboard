@@ -47,7 +47,7 @@ Mapbox and OpenStreetMap for geospatial visualization
 
 Data cleaning and preparation performed in Excel
 
-🔍 Insights
+🔍 **Insights**
 Some key findings:
 
 Listings with more bedrooms command significantly higher average prices.
@@ -56,19 +56,11 @@ Zip codes 98101 and 98102 have the highest average nightly rates.
 
 Revenue peaks in late spring and early summer.
 
-📁 Files Included
-Tableau Workbook (.twbx or packaged .xlsx data source)
 
-Screenshot of the dashboard (PNG)
 
-README documentation
 
-📈 How to Use
-Download the Tableau Public file.
 
-Open it in Tableau Public Desktop.
 
-Interact with the filters, map, and charts to explore the data.
 
 ✨ Acknowledgments
 Data visualization inspired by Tableau community examples.
