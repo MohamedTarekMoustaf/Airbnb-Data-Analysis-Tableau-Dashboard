@@ -33,7 +33,7 @@ Time series line chart showing weekly revenue trends throughout the year 2016.
 
 Highlights seasonal peaks in demand and revenue.
 
-💾 Data Sources
+💾 **Data Sources**
 The dataset used in this project includes:
 
 Listing details such as number of bedrooms, zip code, and nightly price.
