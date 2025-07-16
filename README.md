@@ -34,6 +34,7 @@ Time series line chart showing weekly revenue trends throughout the year 2016.
 Highlights seasonal peaks in demand and revenue.
 
 💾 **Data Sources**
+
 The dataset used in this project includes:
 
 Listing details such as number of bedrooms, zip code, and nightly price.
@@ -56,12 +57,6 @@ Listings with more bedrooms command significantly higher average prices.
 Zip codes 98101 and 98102 have the highest average nightly rates.
 
 Revenue peaks in late spring and early summer.
-
-
-
-
-
-
 
 ✨ Acknowledgments
 Data visualization inspired by Tableau community examples.
