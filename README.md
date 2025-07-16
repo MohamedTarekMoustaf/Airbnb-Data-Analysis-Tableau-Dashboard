@@ -3,7 +3,7 @@ This project presents a visual analysis of Airbnb listings in California, USA, u
 <img width="1917" height="1012" alt="29" src="https://github.com/user-attachments/assets/6aa34df9-9e09-4a20-a463-7934f36a4d1e" />
 
 📊 Dashboard Overview
-The Tableau dashboard includes the following key visualizations:
+**The Tableau dashboard includes the following key visualizations:**
 
 Average Price by Bedroom Category
 
