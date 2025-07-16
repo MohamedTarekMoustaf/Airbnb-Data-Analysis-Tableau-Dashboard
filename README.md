@@ -58,8 +58,5 @@ Zip codes 98101 and 98102 have the highest average nightly rates.
 
 Revenue peaks in late spring and early summer.
 
-✨ Acknowledgments
-Data visualization inspired by Tableau community examples.
 
-Geospatial layers provided by Mapbox and OpenStreetMap.
 
