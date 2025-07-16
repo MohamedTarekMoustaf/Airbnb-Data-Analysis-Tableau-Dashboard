@@ -1,5 +1,6 @@
 # Airbnb Data Analysis - Tableau Dashboard
 This project presents a visual analysis of Airbnb listings in California, USA, using Tableau Public Edition. The dashboard provides insights into pricing, availability, and revenue patterns across different bedroom categories and zip codes.
+<img width="1917" height="1012" alt="29" src="https://github.com/user-attachments/assets/6aa34df9-9e09-4a20-a463-7934f36a4d1e" />
 
 📊 Dashboard Overview
 The Tableau dashboard includes the following key visualizations:
