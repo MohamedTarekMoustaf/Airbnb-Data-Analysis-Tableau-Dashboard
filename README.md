@@ -36,7 +36,7 @@ Highlights seasonal peaks in demand and revenue.
 
 💾 **Data Sources**
 
-The dataset used in this project is extracted from "Kaggle" https://www.kaggle.com/datasets/airbnb/seattle; it includes:
+The dataset used in this project is extracted from "Kaggle" https://www.kaggle.com/datasets/airbnb/seattle ; it includes:
 
 Listing details such as number of bedrooms, zip code, and nightly price.
 
